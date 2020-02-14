@@ -1,0 +1,21 @@
+body{
+    background-color: #0c0022;
+    color: #faebd0;
+}
+li{
+    display: block; 
+    /* background-color: #380422; */
+    color: #d89d9d;
+    display: inline;
+    padding: 3px 12px;
+    margin: 0;
+    transition-duration: 0.7s;
+}
+li:hover{
+    background-color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+}
+img{
+    width: 40%;
+}
