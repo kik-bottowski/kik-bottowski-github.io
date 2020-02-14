@@ -16,6 +16,16 @@ li:hover{
     font-weight: 600;
     cursor: pointer;
 }
+#right{
+    display: inline;
+    float: left;
+}
 img{
     width: 40%;
+    display: inline-block;
+    float: left;
+}
+#name-heading{
+    display: inline;
+    float:;
 }
